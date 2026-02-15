@@ -1,1 +1,182 @@
-{}
+{
+  "2026-02-10": {
+    "date": "2026-02-10",
+    "skipping": {
+      "duration": "",
+      "count": ""
+    },
+    "dumbbellCurl": {
+      "count": "50"
+    },
+    "dumbbellRow": {
+      "count": ""
+    },
+    "running": {
+      "count": ""
+    },
+    "walking": {
+      "count": "11465"
+    },
+    "sitUps": {
+      "count": "200"
+    },
+    "skateboarding": {
+      "duration": "40",
+      "count": ""
+    },
+    "gluteBridge": {
+      "count": "30"
+    },
+    "score": 50
+  },
+  "2026-02-11": {
+    "date": "2026-02-11",
+    "skipping": {
+      "duration": "61",
+      "count": "12277"
+    },
+    "dumbbellCurl": {
+      "count": "50"
+    },
+    "dumbbellRow": {
+      "count": "50"
+    },
+    "running": {
+      "count": ""
+    },
+    "walking": {
+      "count": "9865"
+    },
+    "sitUps": {
+      "count": "190"
+    },
+    "skateboarding": {
+      "duration": "",
+      "count": ""
+    },
+    "gluteBridge": {
+      "count": "30"
+    },
+    "score": 64
+  },
+  "2026-02-12": {
+    "date": "2026-02-12",
+    "skipping": {
+      "duration": "",
+      "count": ""
+    },
+    "dumbbellCurl": {
+      "count": "50"
+    },
+    "dumbbellRow": {
+      "count": "30"
+    },
+    "running": {
+      "count": ""
+    },
+    "walking": {
+      "count": "9656"
+    },
+    "sitUps": {
+      "count": "200"
+    },
+    "skateboarding": {
+      "duration": "",
+      "count": ""
+    },
+    "gluteBridge": {
+      "count": ""
+    },
+    "score": 43
+  },
+  "2026-02-13": {
+    "date": "2026-02-13",
+    "skipping": {
+      "duration": "",
+      "count": ""
+    },
+    "dumbbellCurl": {
+      "count": "100"
+    },
+    "dumbbellRow": {
+      "count": "30"
+    },
+    "running": {
+      "count": ""
+    },
+    "walking": {
+      "count": "10456"
+    },
+    "sitUps": {
+      "count": "200"
+    },
+    "skateboarding": {
+      "duration": "35",
+      "count": ""
+    },
+    "gluteBridge": {
+      "count": "50"
+    },
+    "score": 49
+  },
+  "2026-02-14": {
+    "date": "2026-02-14",
+    "skipping": {
+      "duration": "60",
+      "count": "12427"
+    },
+    "dumbbellCurl": {
+      "count": "50"
+    },
+    "dumbbellRow": {
+      "count": ""
+    },
+    "running": {
+      "count": ""
+    },
+    "walking": {
+      "count": "11210"
+    },
+    "sitUps": {
+      "count": "200"
+    },
+    "skateboarding": {
+      "duration": "45",
+      "count": ""
+    },
+    "gluteBridge": {
+      "count": "50"
+    },
+    "score": 71
+  },
+  "2026-02-15": {
+    "date": "2026-02-15",
+    "skipping": {
+      "duration": "10",
+      "count": "1000"
+    },
+    "dumbbellCurl": {
+      "count": "100"
+    },
+    "dumbbellRow": {
+      "count": ""
+    },
+    "running": {
+      "count": ""
+    },
+    "walking": {
+      "count": "72"
+    },
+    "sitUps": {
+      "count": "200"
+    },
+    "skateboarding": {
+      "duration": "30",
+      "count": ""
+    },
+    "gluteBridge": {
+      "count": "100"
+    },
+    "score": 41
+  }
+}
